@@ -78,7 +78,6 @@
       <ul id="log"></ul>
     </section>
   </div>
-
   <script>
     const log = document.getElementById("log");
 
